@@ -1,5 +1,8 @@
 # fateme-rezaei
 پروژه جاروبرقی با زبان پایتون
+
+
+
 from random import randint
 from sys import platform
 from os import system
